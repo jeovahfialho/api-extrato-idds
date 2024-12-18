@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+
+    .content-wrapper {
+        margin-left: 0 !important;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+    }
+}
